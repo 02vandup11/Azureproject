@@ -66,13 +66,13 @@ Azure Services Used:
         4.	Versioning:
               a.	Definition: A feature that maintains previous versions of data objects, enabling recovery of earlier versions.
               b.	Role: Allows you to revert to previous states of your data in case of accidental changes or corruption.
-<hr>
+
 Web Technologies Used:
   1.	HTML
   2.	PHP
   3.	JS
   4.	TAILWIND CSS
-
+<hr>
 Resource Visualizer:
 ![RES](https://github.com/02vandup11/Azureproject/assets/138954560/444048a6-3171-43d5-9e53-9a4f33c25626)
 
@@ -89,7 +89,7 @@ Azure Resources Overview:
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/6dc22f8a-3988-4a04-ad39-cbfc75894879)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0e34c5f9-ed63-4a08-8115-2eae78edcfaf)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/b0228a17-92a1-41a5-a010-b91aafc3b8cf)
-<hr>
+
    2)	AI Service Chatbot
    <hr>
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/c2cfda09-64d3-482e-8042-97c150905600)
