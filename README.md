@@ -23,49 +23,49 @@ Azure Services Used:
       b.	Role: Ensures that your AI service chatbot and other applications are up and running within the VM environment.
 
 2.	AI Service Chatbot
-  1.	Definition: An AI chatbot is a software application that uses artificial intelligence to conduct conversations with users through text or voice.
-  2.	Role: Provides automated customer support, information retrieval, and user interaction in your project.
+      1.	Definition: An AI chatbot is a software application that uses artificial intelligence to conduct conversations with users through text or voice.
+      2.	Role: Provides automated customer support, information retrieval, and user interaction in your project.
 
 3.	Monitoring and Alert
-  1.	Definition: Monitoring involves tracking the performance and health of your applications and infrastructure. Alerts are notifications triggered by specific conditions or thresholds.
-  2.	Role: Ensures the reliability and performance of your AI services by notifying you of issues that require attention.
+      1.	Definition: Monitoring involves tracking the performance and health of your applications and infrastructure. Alerts are notifications triggered by specific conditions or thresholds.
+      2.	Role: Ensures the reliability and performance of your AI services by notifying you of issues that require attention.
 
 4.	Log Analytics Workspace
-  1.	Definition: A Log Analytics Workspace is a centralized repository for collecting, analyzing, and querying log data from various sources.
-  2.	Role: Helps in monitoring, troubleshooting, and gaining insights into the performance and health of your AI services and infrastructure.
+      1.	Definition: A Log Analytics Workspace is a centralized repository for collecting, analyzing, and querying log data from various sources.
+      2.	Role: Helps in monitoring, troubleshooting, and gaining insights into the performance and health of your AI services and infrastructure.
 
 5.	File Share
-    1.	Definition: A file share is a network shared folder that can be accessed by multiple users and systems.
-    2.	Role: Provides a common storage space for files that need to be accessed or shared across your AI services and VMs.
+      1.	Definition: A file share is a network shared folder that can be accessed by multiple users and systems.
+      2.	Role: Provides a common storage space for files that need to be accessed or shared across your AI services and VMs.
 
 6.	Backup and Restore through Service Vaults of VM
-  1.	Backup:
-  a.	Definition: The process of creating copies of data to protect against data loss.
-  b.	Role: Ensures data protection and disaster recovery for your VMs and their applications.
-  2.	Restore:
-  a.	Definition: The process of retrieving data from backups.
-  b.	Role: Allows recovery of data in case of accidental deletion, corruption, or other data loss scenarios.
-  3.	Service Vaults:
-  a.	Definition: Specialized storage locations used for securely storing backup data.
-  b.	Role: Provides a secure and reliable repository for backup data of your VMs.
+      1.	Backup:
+          a.	Definition: The process of creating copies of data to protect against data loss.
+          b.	Role: Ensures data protection and disaster recovery for your VMs and their applications.
+      2.	Restore:
+          a.	Definition: The process of retrieving data from backups.
+          b.	Role: Allows recovery of data in case of accidental deletion, corruption, or other data loss scenarios.
+      3.	Service Vaults:
+          a.	Definition: Specialized storage locations used for securely storing backup data.
+          b.	Role: Provides a secure and reliable repository for backup data of your VMs.
 
 7.	Storage Account Container
-  1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
-  2.	Role: Organizes and manages the storage of data used by your AI services.
+          1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
+          2.	Role: Organizes and manages the storage of data used by your AI services.
 
 8.	Storage Account with Soft Delete, Change the Date of Soft Delete, and Versioning
-  1.	Storage Account:
-  a.	Definition: A storage account provides a unique namespace in Azure for your data objects.
-  b.	Role: Houses all your Azure Storage data objects, including blobs, file shares, queues, and tables.
-  2.	Soft Delete:
-  a.	Definition: A feature that temporarily retains deleted data, allowing recovery within a specified retention period.
-  b.	Role: Protects against accidental deletions by allowing you to restore deleted data.
-  3.	Change the Date of Soft Delete:
-  a.	Definition: Adjusting the retention period for softdeleted data.
-  b.	Role: Gives you flexibility in managing how long deleted data is retained.
-  4.	Versioning:
-  a.	Definition: A feature that maintains previous versions of data objects, enabling recovery of earlier versions.
-  b.	Role: Allows you to revert to previous states of your data in case of accidental changes or corruption.
+        1.	Storage Account:
+            a.	Definition: A storage account provides a unique namespace in Azure for your data objects.
+            b.	Role: Houses all your Azure Storage data objects, including blobs, file shares, queues, and tables.
+        2.	Soft Delete:
+            a.	Definition: A feature that temporarily retains deleted data, allowing recovery within a specified retention period.
+            b.	Role: Protects against accidental deletions by allowing you to restore deleted data.
+        3.	Change the Date of Soft Delete:
+            a.	Definition: Adjusting the retention period for softdeleted data.
+            b.	Role: Gives you flexibility in managing how long deleted data is retained.
+        4.	Versioning:
+            a.	Definition: A feature that maintains previous versions of data objects, enabling recovery of earlier versions.
+            b.	Role: Allows you to revert to previous states of your data in case of accidental changes or corruption.
 
 Web Technologies Used:
   1.	HTML
