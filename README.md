@@ -9,10 +9,10 @@ Working Links for the Project:-
  <hr>  
 Project Summary: 
   The project is an e-commerce platform designed as an online jewellery store, enabling users to browse, search, buy, pay, and update their profiles seamlessly. Leveraging various Azure and AI services, it provides a reliable, efficient, and user-friendly experience. Key features include an intuitive interface, comprehensive Azure integration with virtual machines for hosting, monitoring services for system performance, backup and restore services to protect data, file share services for collaboration, and log analytics for insights. AI services, such as an AI ChatBot, enhance customer support. The notification system ensures users receive emails and SMS alerts for operations and critical actions. Regular backups and quick restoration options ensure data safety, while continuous monitoring maintains system health. This integration of technology enhances operational efficiency, boosts customer satisfaction, and supports business growth.
-
+<hr>
 Overview: 
   Our e-commerce platform seamlessly integrates various Azure components to deliver a reliable, efficient, and user-friendly experience. Azure VMs host our platform, providing scalable computing power to handle user traffic and workload fluctuations effectively. Azure monitoring services track system performance and user interactions in real-time, logging and monitoring operations for performance and security. These events trigger alerts via email or SMS to keep stakeholders informed. Azure's backup and restore services ensure the safety of our data with regular backups and quick restoration options. Azure file shares facilitate seamless collaboration among team members, while Azure Log Analytics offers valuable insights into system behaviour and user activity. An AI-powered chatbot enhances customer support, reducing the workload on human agents and improving overall efficiency and customer satisfaction. This integration ensures operational excellence, data security, and enhanced user engagement, with a monitoring and notification system providing timely alerts for critical actions, enabling proactive response and ensuring a smooth user experience.
-
+<hr>
 Azure Services Used:
 1.	Virtual Machine (VM) and Deployment in VM
       1.	Virtual Machine (VM):
@@ -66,20 +66,19 @@ Azure Services Used:
         4.	Versioning:
               a.	Definition: A feature that maintains previous versions of data objects, enabling recovery of earlier versions.
               b.	Role: Allows you to revert to previous states of your data in case of accidental changes or corruption.
-
+<hr>
 Web Technologies Used:
   1.	HTML
   2.	PHP
   3.	JS
   4.	TAILWIND CSS
-
+<hr>
 Resource Visualizer:
-
 ![RES](https://github.com/02vandup11/Azureproject/assets/138954560/444048a6-3171-43d5-9e53-9a4f33c25626)
-
-
+<hr>
 Azure Resources Overview:
    1)	Virtual Machine and Deployment
+   <hr>
    ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0f0d1481-a8a7-4b7d-bbff-034b8fa2201c)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/bcee7a1d-caec-445f-afc8-286cbeb1212b)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/a61197b0-fd35-4787-85ce-d3c0f9c23e7b)
@@ -90,8 +89,9 @@ Azure Resources Overview:
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/6dc22f8a-3988-4a04-ad39-cbfc75894879)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0e34c5f9-ed63-4a08-8115-2eae78edcfaf)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/b0228a17-92a1-41a5-a010-b91aafc3b8cf)
-
+<hr>
    2)	AI Service Chatbot
+   <hr>
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/c2cfda09-64d3-482e-8042-97c150905600)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/20216bc6-74d0-488d-9db2-d49a4396abc6)
   ![image](https://github.com/02vandup11/Azureproject/assets/138954560/34a93533-fc62-418a-a30d-6712bf26843a)
@@ -118,8 +118,9 @@ Azure Resources Overview:
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0d7589cb-7354-4fd1-9a87-8f6d9895f398)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/ce366d2e-6b5a-4569-aa66-ed614c71236a)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/e845398f-c81a-48fb-9aa8-163f80bacaf4)
-
+<hr>
    3)	Monitoring and Alert
+   <hr>
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/3e9266a4-b799-48dc-825d-0c32bd8f0e9a)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/fe2606e3-7305-46e6-a021-177572d7d8ba)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/03c1543a-fa9d-4c54-abc4-14832d5b06fa)
@@ -127,12 +128,72 @@ Azure Resources Overview:
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/73e39929-20d2-42c4-b003-0db3e9964b95)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/be7eed2d-6d32-40e4-8e1e-273a0ff0a1ea)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/ff7247c6-5c2d-4fab-ae0d-4a3bfbf0cf17)
-
+<hr>
    4)	Log Analytics Workspace
-
+<hr>
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/9efd296a-180f-4404-8efe-dc110c2e5be8)
-
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/6d2e8561-84b2-41ad-b4f0-8a02a8e11b7b)
+<hr>
+  5)	File Share
+<hr>
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6a0dc95d-b884-4aaf-8f5c-07b54ff139be)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/d1a01f5c-933d-44ad-a269-a9e25af0b84a)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/5964ac79-10c4-4679-9613-621a46398eaa)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/156acb67-3b9d-40e8-ba94-e57ab5fa6dec)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/8cfa371b-b9ef-497f-9f48-e84ee411efe0)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/63bce8bd-92d4-4a33-a2d6-079ca12956a4)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/5c29f344-57d1-432d-9251-fd5ba9994750)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/d8cd3549-95b1-4ed0-bb82-0d768517dcf2)
+<hr>
+  6)	Backup and Restore through Service Vaults of VM
+<hr>
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/c2784cae-dddd-4e30-a3af-cadb7aff97ca)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6b085622-d880-45ce-8033-92ea210077bc)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/db9a8ee9-b282-4862-9aef-80ba3b2df694)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/9184f2af-ad19-49ae-8673-fd67d375efad)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/a09020ba-02f9-4153-9f07-cfce45dbcc2e)
+<hr>
+  7)	Storage Account Container
+<hr>
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/16e5d565-8fc6-44d5-afd6-c4917982f956)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/4631571c-d224-46d7-af08-4440d784c7eb)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/778cd9cd-0282-4a19-9401-3d8a6cf85db9)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/affc39ed-e8b1-49ad-9620-d3146ce855b3)
+<hr>
+  8)	Storage Account with Soft Delete, Change the Date of Soft Delete, and Versioning
+<hr>
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/90b8b28b-cfe9-4635-8946-bd2e5e1e4683)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/9edcc5ef-611a-4abd-8a3a-4794467a35b3)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/85e79a8d-a4b8-4832-a28b-5894dbf58b50)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/707d1617-ea85-4dc7-a683-c8fda77b03fa)
+<hr>
+•	For Screenshots and proper project information how it is create please refer the drive file attached.
+<hr>
+WebSite Preview:
+<hr>
+![Screenshot (47)](https://github.com/02vandup11/Azureproject/assets/138954560/4b430ee5-604f-446c-a0e4-e1b846fd5c3b)
+![Screenshot (48)](https://github.com/02vandup11/Azureproject/assets/138954560/ab4eeab9-2f85-4798-b603-111afaa92445)
+![Screenshot (49)](https://github.com/02vandup11/Azureproject/assets/138954560/a8f95d64-4ec8-4317-8573-0f2f5e3a5732)
+![Screenshot (50)](https://github.com/02vandup11/Azureproject/assets/138954560/0ea0c0f4-80bd-48f9-829b-f18fa44d913d)
+![Screenshot (51)](https://github.com/02vandup11/Azureproject/assets/138954560/59336f8d-a8d9-462a-94f5-2ec9d682c7e9)
+![Screenshot (52)](https://github.com/02vandup11/Azureproject/assets/138954560/fb42c036-3b3f-4016-b2ad-6e444a72499b)
+![Screenshot (53)](https://github.com/02vandup11/Azureproject/assets/138954560/1ab6da90-fde7-4d5a-ae3c-920470cf667e)
+![Screenshot (54)](https://github.com/02vandup11/Azureproject/assets/138954560/f314cf4c-ca1e-4b8e-a4b2-356aaad9b79e)
+![Screenshot (55)](https://github.com/02vandup11/Azureproject/assets/138954560/fe3b90a2-5abf-40dc-aa4e-974da033c9df)
+![Screenshot (56)](https://github.com/02vandup11/Azureproject/assets/138954560/575fcd17-4459-4c6d-b6f9-5cd3dbd6f928)
+![Screenshot (57)](https://github.com/02vandup11/Azureproject/assets/138954560/bf3e09f3-4320-495f-816f-3049856c9ae5)
+![Screenshot (58)](https://github.com/02vandup11/Azureproject/assets/138954560/ec545deb-64bc-448c-8fac-d27237929268)
+![Screenshot (59)](https://github.com/02vandup11/Azureproject/assets/138954560/26d8bdd4-cbc5-4a69-accd-cf211951dff3)
+![Screenshot (60)](https://github.com/02vandup11/Azureproject/assets/138954560/e25215a2-f820-4929-a26a-e3fba1904d3c)
+![Screenshot (61)](https://github.com/02vandup11/Azureproject/assets/138954560/d3f61ff4-7d39-42b7-ab25-59b4351415f4)
+![Screenshot (62)](https://github.com/02vandup11/Azureproject/assets/138954560/c31712a3-5a75-4371-95e0-c983b82e4ee2)
+![Screenshot (63)](https://github.com/02vandup11/Azureproject/assets/138954560/bc59c39b-b5d0-4f03-aaab-0e9ed90e3b7e)
+![Screenshot (64)](https://github.com/02vandup11/Azureproject/assets/138954560/b9c3155d-2ba0-4f0d-8cfc-fd04cda8e6f8)
+![Screenshot (65)](https://github.com/02vandup11/Azureproject/assets/138954560/ac91eb82-6065-4d7a-9c7e-277d72f41a30)
+![Screenshot (66)](https://github.com/02vandup11/Azureproject/assets/138954560/f5e24891-a7a0-4ea5-86bb-87e0fe27c40f)
+![Screenshot (67)](https://github.com/02vandup11/Azureproject/assets/138954560/a720cd91-e3c4-4519-84ec-8b1c81b3500a)
+<hr>
+
 
 
 
