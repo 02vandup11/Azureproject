@@ -77,3 +77,25 @@ Resource Visualizer:
 
 ![RES](https://github.com/02vandup11/Azureproject/assets/138954560/444048a6-3171-43d5-9e53-9a4f33c25626)
 
+
+Azure Resources Overview:
+   1)	Virtual Machine and Deployment
+   ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0f0d1481-a8a7-4b7d-bbff-034b8fa2201c)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/bcee7a1d-caec-445f-afc8-286cbeb1212b)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/a61197b0-fd35-4787-85ce-d3c0f9c23e7b)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/3a006afa-106f-4d95-8398-0914c08e6263)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/de607b6c-610b-4ac4-9ae6-fe336e0c1716)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/2f2813fd-d0c7-45ea-b62b-bc7d692b72a3)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6dcaec8b-4e30-4cde-84a3-26d0124b4b03)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6dc22f8a-3988-4a04-ad39-cbfc75894879)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/0e34c5f9-ed63-4a08-8115-2eae78edcfaf)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/b0228a17-92a1-41a5-a010-b91aafc3b8cf)
+
+
+
+
+
+
+
+
+
