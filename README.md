@@ -91,6 +91,49 @@ Azure Resources Overview:
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/0e34c5f9-ed63-4a08-8115-2eae78edcfaf)
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/b0228a17-92a1-41a5-a010-b91aafc3b8cf)
 
+   2)	AI Service Chatbot
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/c2cfda09-64d3-482e-8042-97c150905600)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/20216bc6-74d0-488d-9db2-d49a4396abc6)
+  ![image](https://github.com/02vandup11/Azureproject/assets/138954560/34a93533-fc62-418a-a30d-6712bf26843a)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/67d4f25b-8686-4105-8424-9bc53a5a1deb)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6fec991b-4d69-4df5-9169-14c74d8eff96)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/7657b039-b86a-4964-9ffd-b95255d97be3)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/fa58463d-e39e-42e0-8b17-3cdef27d1fac)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/69b2628d-ec4b-49b5-8efa-b15032e15a55)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/9eb7bffa-3132-45e0-9c1d-35c2c37b71ab)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/0bfc6664-bc82-4d2d-bb2d-958a0f674b43)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/f54eb293-c8d7-462e-90f4-9bcdbf03f095)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/d2b3c899-061b-40a9-9d91-0468e2c8a4f7)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/71bd666c-c134-4ced-8e2f-7c66a025489f)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/e0c36392-f3f8-4218-b015-12f88d62c0cd)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/dedd3fc6-4c6c-4dda-ab88-b7dce0e917a6)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/deee60d1-0669-4900-b8e5-c5c9c2e674ed)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/ddc6b826-fa16-4d68-95ac-6584929dc05a)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/364ba538-9865-4b09-8086-f2467c0756c3)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/91f8546c-fc7d-4897-82d7-d8fdc7459d6d)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/616dc4d1-dabd-4d58-b34f-502212dbc406)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/e1929322-dd0c-486a-8ebc-4c8b8bc6baaa)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/5b20c8f6-1ee5-4e4b-ac1f-795437196c53)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/207af198-8071-43a7-88e1-620e95dfef85)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/0d7589cb-7354-4fd1-9a87-8f6d9895f398)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/ce366d2e-6b5a-4569-aa66-ed614c71236a)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/e845398f-c81a-48fb-9aa8-163f80bacaf4)
+
+   3)	Monitoring and Alert
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/3e9266a4-b799-48dc-825d-0c32bd8f0e9a)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/fe2606e3-7305-46e6-a021-177572d7d8ba)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/03c1543a-fa9d-4c54-abc4-14832d5b06fa)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/8c3d5700-6ff0-4ddd-8af4-66d0da8b6730)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/73e39929-20d2-42c4-b003-0db3e9964b95)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/be7eed2d-6d32-40e4-8e1e-273a0ff0a1ea)
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/ff7247c6-5c2d-4fab-ae0d-4a3bfbf0cf17)
+
+   4)	Log Analytics Workspace
+
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/9efd296a-180f-4404-8efe-dc110c2e5be8)
+
+![image](https://github.com/02vandup11/Azureproject/assets/138954560/6d2e8561-84b2-41ad-b4f0-8a02a8e11b7b)
+
 
 
 
