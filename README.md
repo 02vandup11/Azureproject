@@ -72,10 +72,10 @@ Web Technologies Used:
   2.	PHP
   3.	JS
   4.	TAILWIND CSS
-<hr>
+
 Resource Visualizer:
 ![RES](https://github.com/02vandup11/Azureproject/assets/138954560/444048a6-3171-43d5-9e53-9a4f33c25626)
-<hr>
+
 Azure Resources Overview:
    1)	Virtual Machine and Deployment
    <hr>
