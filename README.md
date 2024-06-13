@@ -50,20 +50,20 @@ Azure Services Used:
             b.	Role: Provides a secure and reliable repository for backup data of your VMs.
 
 7.	Storage Account Container
-            1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
-            2.	Role: Organizes and manages the storage of data used by your AI services.
+   1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
+   2.	Role: Organizes and manages the storage of data used by your AI services.
 
 8.	Storage Account with Soft Delete, Change the Date of Soft Delete, and Versioning
-          1.	Storage Account:
+       1.	Storage Account:
               a.	Definition: A storage account provides a unique namespace in Azure for your data objects.
               b.	Role: Houses all your Azure Storage data objects, including blobs, file shares, queues, and tables.
-          2.	Soft Delete:
+     2.	Soft Delete:
               a.	Definition: A feature that temporarily retains deleted data, allowing recovery within a specified retention period.
               b.	Role: Protects against accidental deletions by allowing you to restore deleted data.
-          3.	Change the Date of Soft Delete:
+       3.	Change the Date of Soft Delete:
               a.	Definition: Adjusting the retention period for softdeleted data.
               b.	Role: Gives you flexibility in managing how long deleted data is retained.
-          4.	Versioning:
+        4.	Versioning:
               a.	Definition: A feature that maintains previous versions of data objects, enabling recovery of earlier versions.
               b.	Role: Allows you to revert to previous states of your data in case of accidental changes or corruption.
 
