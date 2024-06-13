@@ -15,12 +15,12 @@ Overview:
 
 Azure Services Used:
 1.	Virtual Machine (VM) and Deployment in VM
-  1.	Virtual Machine (VM):
-  a.	Definition: A VM is an emulation of a computer system. It runs an operating system and applications just like a physical computer.
-  b.	Role: In your project, VMs are used to host your AI services and other applications, providing a scalable and flexible environment.
-  2.	Deployment in VM:
-  a.	Definition: This involves installing and configuring software applications and services on a VM.
-  b.	Role: Ensures that your AI service chatbot and other applications are up and running within the VM environment.
+      1.	Virtual Machine (VM):
+      a.	Definition: A VM is an emulation of a computer system. It runs an operating system and applications just like a physical computer.
+      b.	Role: In your project, VMs are used to host your AI services and other applications, providing a scalable and flexible environment.
+      2.	Deployment in VM:
+      a.	Definition: This involves installing and configuring software applications and services on a VM.
+      b.	Role: Ensures that your AI service chatbot and other applications are up and running within the VM environment.
 
 2.	AI Service Chatbot
   1.	Definition: An AI chatbot is a software application that uses artificial intelligence to conduct conversations with users through text or voice.
