@@ -50,8 +50,8 @@ Azure Services Used:
             b.	Role: Provides a secure and reliable repository for backup data of your VMs.
 
 7.	Storage Account Container
-   1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
-   2.	Role: Organizes and manages the storage of data used by your AI services.
+    1.	Definition: A container within a storage account is a grouping of blobs (binary large objects), which can store unstructured data like text or binary data.
+    2.	Role: Organizes and manages the storage of data used by your AI services.
 
 8.	Storage Account with Soft Delete, Change the Date of Soft Delete, and Versioning
        1.	Storage Account:
