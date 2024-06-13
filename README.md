@@ -6,7 +6,7 @@ Working Links for the Project:-
 5.	Full detailed video: VIDEO BADA WALA LINK
 6.	Documentation: document link
 7.	PDF File With ScreenShoots and explanation about the project: Link
-8.	
+   
 Project Summary: 
   The project is an e-commerce platform designed as an online jewellery store, enabling users to browse, search, buy, pay, and update their profiles seamlessly. Leveraging various Azure and AI services, it provides a reliable, efficient, and user-friendly experience. Key features include an intuitive interface, comprehensive Azure integration with virtual machines for hosting, monitoring services for system performance, backup and restore services to protect data, file share services for collaboration, and log analytics for insights. AI services, such as an AI ChatBot, enhance customer support. The notification system ensures users receive emails and SMS alerts for operations and critical actions. Regular backups and quick restoration options ensure data safety, while continuous monitoring maintains system health. This integration of technology enhances operational efficiency, boosts customer satisfaction, and supports business growth.
 
@@ -39,13 +39,13 @@ Azure Services Used:
       2.	Role: Provides a common storage space for files that need to be accessed or shared across your AI services and VMs.
 
 6.	Backup and Restore through Service Vaults of VM
-        1.	Backup:
+     1.	Backup:
             a.	Definition: The process of creating copies of data to protect against data loss.
             b.	Role: Ensures data protection and disaster recovery for your VMs and their applications.
-        2.	Restore:
+    2.	Restore:
             a.	Definition: The process of retrieving data from backups.
             b.	Role: Allows recovery of data in case of accidental deletion, corruption, or other data loss scenarios.
-        3.	Service Vaults:
+     3.	Service Vaults:
             a.	Definition: Specialized storage locations used for securely storing backup data.
             b.	Role: Provides a secure and reliable repository for backup data of your VMs.
 
