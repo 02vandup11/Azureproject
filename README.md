@@ -189,7 +189,7 @@
 ![image](https://github.com/02vandup11/Azureproject/assets/138954560/707d1617-ea85-4dc7-a683-c8fda77b03fa)
 
 •	For Screenshots and proper project information how it is create please refer the drive file attached.
-
+<hr>
 **WebSite Preview:**
 <hr>
 
@@ -214,7 +214,8 @@
 ![Screenshot (65)](https://github.com/02vandup11/Azureproject/assets/138954560/ac91eb82-6065-4d7a-9c7e-277d72f41a30)
 ![Screenshot (66)](https://github.com/02vandup11/Azureproject/assets/138954560/f5e24891-a7a0-4ea5-86bb-87e0fe27c40f)
 ![Screenshot (67)](https://github.com/02vandup11/Azureproject/assets/138954560/a720cd91-e3c4-4519-84ec-8b1c81b3500a)
-
+<hr>
+THANK YOU !
 
 
 
