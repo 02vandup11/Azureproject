@@ -8,7 +8,7 @@
 <body>
   <h1>Working Links for the Project:</h1>
   <ul>
-    <li>Web Application hosted on Azure: <a href="172.191.80.84/azure/index.php"> Ethnic_jewellery </a></li>
+    <li>Web Application hosted on Azure: <a href="http://172.191.80.84/azure/index.php"> Ethnic_jewellery </a></li>
     <li>Github Repository: <a href="GITHUB_REPOSITORY_LINK">Link</a></li>
     <li>Project Documentation With Project Video: <a href="DRIVE_JISME_SAB_HO">Link</a></li>
     <li>Short video: <a href="VIDEO_LINK">VIDEO LINK</a></li>
