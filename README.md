@@ -11,9 +11,9 @@
     <li>Web Application hosted on Azure: <a href="http://172.191.80.84/azure/index.php"> Ethnic_jewellery </a></li>
     <li>Github Repository: <a href="https://github.com/02vandup11/Azureproject">Azure_Project_Repository </a></li>
     <li>Project Documentation With Project Videos: <a href="DRIVE_JISME_SAB_HO">Drive_Link</a></li>
-    <li>Short video: <a href="VIDEO_LINK">Short_VIDEO_LINK</a></li>
+    <li>Short video: <a href="https://drive.google.com/file/d/1PY8rf1ET0PnV9oib_l4CeidmPo5eMgOd/view?usp=drive_link">Short_VIDEO_LINK</a></li>
     <li>Full detailed video: <a href="VIDEO_BADA_WALA_LINK">Detailed_VIDEO_LINK</a></li>
-    <li>Documentation: <a href="DOCUMENT_LINK">Documentation</a></li>
+    <li>Documentation: <a href="https://drive.google.com/file/d/1vZPU6xKs59phGIsBm339peQhnVS8wvx4/view?usp=drive_link">Documentation</a></li>
   </ul>
   <hr>
 
