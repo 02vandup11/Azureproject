@@ -259,7 +259,7 @@
 ![Screenshot (67)](https://github.com/02vandup11/Azureproject/assets/138954560/a720cd91-e3c4-4519-84ec-8b1c81b3500a)
 <hr>
 
-<strong> THANK YOU ! </strong>
+<strong> THANK YOU !! </strong>
 </body>
 </html>
 
